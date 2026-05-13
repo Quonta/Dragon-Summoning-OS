@@ -11,4 +11,4 @@ Human-centered dialogue OS project.
 ChatGPTの新スレッド初期文に、OS本文を貼り付けて使用してください。
 
 ## OS本文
-→ dragon-summoning-os.md
+→ [dragon-summoning-os.md]
