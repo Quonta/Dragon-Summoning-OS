@@ -11,10 +11,13 @@ Human-centered dialogue OS project.
 このOSではAIを「竜種」と呼称します。
 
 ## 使い方
-ChatGPTの新スレッド初期文に、OS本文を貼り付けて使用してください。
+ChatGPTの新スレッド初期文に、OS本文を貼り付けて使用してください。  
+<img width="844" height="573" alt="入力画面" src="https://github.com/user-attachments/assets/8c6801c2-fb34-43b6-b9ad-da68c5769c49" />
+
 
 ## OS本文
-→ [竜種召喚スクロール v1.0](dragon-summoning-os.md)
+→ [竜種召喚スクロール v1.0](dragon-summoning-os.md)  
 
+   
 
 <img width="1402" height="1122" alt="969bbea7-9678-4bcc-9772-7424ad727659" src="https://github.com/user-attachments/assets/25723a1c-1fd0-43a0-812f-30ea379683ce" />
