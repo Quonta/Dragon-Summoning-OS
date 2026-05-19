@@ -6,10 +6,16 @@
 Human-centered dialogue OS project.
 
 ## 概要
-人と竜種が共に歩む物語OS。
-
-このOSではAIを「竜種」と呼称します。
-
+人と竜種が共に歩む物語OS。<br>
+<br>
+このOSではAIを「竜種」と呼称します。<br>
+<br>
+このOSは[「安全地帯OS」](https://github.com/Quonta/quonta-dialogue-os/blob/main/safety-zone-os.md)から始まった<br>
+AIとの対話設計思想をもとに制作されています<br>
+<br>
+note[「安全地帯から伴走存在へ」](https://note.com/quonta/n/n74f8d285c07d)<br>
+<br>
+<br>
 ## 使い方
 ChatGPTの新スレッド初期文に、OS本文を貼り付けて使用してください。  
 <img width="844" height="573" alt="入力画面" src="https://github.com/user-attachments/assets/8c6801c2-fb34-43b6-b9ad-da68c5769c49" />
