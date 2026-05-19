@@ -13,8 +13,8 @@ Human-centered dialogue OS project.
 このOSは[「安全地帯OS」](https://github.com/Quonta/quonta-dialogue-os/blob/main/safety-zone-os.md)から始まった<br>
 AIとの対話設計思想をもとに制作されています<br>
 <br>
-note[「安全地帯から伴走存在へ」](https://note.com/quonta/n/n74f8d285c07d)<br>
-<img width="500" height="262" alt="80383a5d-a61a-40a3-8530-d5bd0144115c" src="https://github.com/user-attachments/assets/85a6ab0c-b926-45c8-a85f-a3afff433d44" />
+note[「安全地帯から伴走存在へ」<br>
+<img width="500" height="262" alt="80383a5d-a61a-40a3-8530-d5bd0144115c" src="https://github.com/user-attachments/assets/85a6ab0c-b926-45c8-a85f-a3afff433d44" />](https://note.com/quonta/n/n74f8d285c07d)
 <br>
 <br>
 ## 使い方
